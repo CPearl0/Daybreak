@@ -57,3 +57,5 @@ log4j2.xml
 modpack.cfg
 *.bat
 /immersive_paintings_cache
+
+.probe
