@@ -1,0 +1,18 @@
+{
+    "type": "powah:energizing",
+    "energy": 10000,
+    "ingredients": [
+        {
+            "tag": "c:ingots/iron"
+        },
+        {
+            "tag": "minecraft:coals"
+        },
+        {
+            "tag": "minecraft:coals"
+        }
+    ],
+    "result": {
+        "id": "mekanism:ingot_steel"
+    }
+}

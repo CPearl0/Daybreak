@@ -1,5 +1,29 @@
 {
-	chapter.39C825E1FFAC6D34.title: "{chapter.daybreak.welcome.title}"
-	quest.2CFF6FD8D52DFADE.quest_desc: ["{quest.daybreak.introduction.description}"]
-	task.365D0E1E386B7173.title: "{quest.daybreak.introduction.title}"
+	chapter.230B15EFFCED1069.title: "一 艰难起步"
+	chapter.39C825E1FFAC6D34.title: "欢迎来到&b破晓&r"
+	chapter.7D72034214A17EC8.title: "二 气动工艺"
+	quest.2C369F26E87C5495.quest_desc: ["虽然没了太阳，好在资源还在。"]
+	quest.2C369F26E87C5495.title: "基础资源"
+	quest.2CFF6FD8D52DFADE.quest_desc: [
+		"后裔曾经说过：“周日被我射熄火了，所以今天是周一。”"
+		"当然，你没有见过后裔；但是不知为何，你现在也没见到太阳了。"
+	]
+	quest.2CFF6FD8D52DFADE.title: "&b破晓&r"
+	quest.40A6F9E0AC918F26.quest_desc: ["我们现在可能还去不了下界，拿不到下界石英。不过，陨石里也许有另一种石英同样性能优异..."]
+	quest.4BE54C28218BED92.quest_desc: ["不知道外星有没有太阳。"]
+	quest.4BE54C28218BED92.title: "外星科技"
+	quest.519E9D76F874F54D.quest_desc: [
+		"希望你能安全找到第一棵&a树&r"
+		"&m什么，你问我没有太阳怎么会有树？曾经是有太阳的&r"
+	]
+	quest.519E9D76F874F54D.title: "夜晚行动"
+	quest.5701C9BC22536792.title: "寻找陨石"
+	quest.606C9C70205CA46F.quest_desc: ["没有了太阳能，只能用电能了。"]
+	quest.6A6BE97181A83664.quest_desc: [
+		"除了电能，还有我们的双手不是。"
+		"&m低版本AE玩家不用惊讶，高版本AE是这样的。&r顺带一提，按G可以查看AE模组中物品的使用方法。"
+	]
+	quest.6E28D30C613347DB.quest_desc: ["利用压力，改变世界。"]
+	quest.6E28D30C613347DB.title: "压缩！！！"
+	task.365D0E1E386B7173.title: "&b破晓&r"
 }

@@ -1,0 +1,65 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter2"
+	group: ""
+	id: "7D72034214A17EC8"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0508424D11C98977"]
+			id: "6E28D30C613347DB"
+			tasks: [{
+				id: "35F8DB1533FD94C3"
+				item: { count: 1, id: "pneumaticcraft:ingot_iron_compressed" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1E6C304EDE0F6318"]
+			id: "19D2C1E9EC82FC88"
+			tasks: [
+				{
+					id: "0856B440F2125037"
+					item: { count: 1, id: "minecraft:breeze_rod" }
+					type: "item"
+				}
+				{
+					id: "49EF46DE97F6F994"
+					item: { count: 1, id: "minecraft:wind_charge" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["519E9D76F874F54D"]
+			id: "1E6C304EDE0F6318"
+			tasks: [{
+				id: "18CC73AE8A8589A9"
+				structure: "minecraft:trial_chambers"
+				type: "structure"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"19D2C1E9EC82FC88"
+				"6E28D30C613347DB"
+			]
+			id: "10B70E1C7AB7EA53"
+			tasks: [{
+				id: "439641E1AB80AD67"
+				item: { count: 1, id: "pneumaticcraft:air_compressor" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}

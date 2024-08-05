@@ -1,0 +1,252 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter1"
+	group: ""
+	icon: {
+		id: "mekanism:steel_casing"
+	}
+	id: "230B15EFFCED1069"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2CFF6FD8D52DFADE"]
+			icon: {
+				id: "minecraft:oak_log"
+			}
+			id: "519E9D76F874F54D"
+			tasks: [{
+				id: "479E7B99473E041C"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["519E9D76F874F54D"]
+			icon: {
+				id: "minecraft:iron_ingot"
+			}
+			id: "2C369F26E87C5495"
+			tasks: [
+				{
+					id: "548F1508E886DD18"
+					item: { count: 1, id: "minecraft:cobblestone" }
+					type: "item"
+				}
+				{
+					id: "2277CC40BB3AF5F2"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+				{
+					id: "0B21509002E82272"
+					item: { count: 1, id: "minecraft:redstone" }
+					type: "item"
+				}
+				{
+					id: "412EBAB006EA5B2E"
+					item: { count: 1, id: "minecraft:coal" }
+					type: "item"
+				}
+				{
+					id: "447AF1843B94AD39"
+					item: { count: 1, id: "minecraft:clay_ball" }
+					type: "item"
+				}
+				{
+					id: "59741D548D347717"
+					item: { count: 1, id: "minecraft:copper_ingot" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C369F26E87C5495"]
+			id: "606C9C70205CA46F"
+			tasks: [{
+				id: "08AE84B2FD446E76"
+				item: { count: 1, id: "powah:furnator_starter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C369F26E87C5495"]
+			icon: {
+				id: "ae2:charger"
+			}
+			id: "6A6BE97181A83664"
+			tasks: [
+				{
+					id: "45CA29DDEE34E00E"
+					item: { count: 1, id: "ae2:charger" }
+					type: "item"
+				}
+				{
+					id: "12643AD4A231AFC9"
+					item: { count: 1, id: "ae2:crank" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6A6BE97181A83664"]
+			icon: {
+				id: "ae2:meteorite_compass"
+			}
+			id: "5701C9BC22536792"
+			tasks: [
+				{
+					id: "2B1B8E2F0A92B328"
+					item: { count: 1, id: "minecraft:compass" }
+					type: "item"
+				}
+				{
+					id: "04FF27861293D4C4"
+					item: { count: 1, id: "ae2:meteorite_compass" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5701C9BC22536792"]
+			id: "40A6F9E0AC918F26"
+			tasks: [{
+				id: "3955106D30969EDB"
+				item: { count: 1, id: "ae2:certus_quartz_crystal" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["5701C9BC22536792"]
+			id: "4BE54C28218BED92"
+			tasks: [
+				{
+					id: "3E1D25B898721E33"
+					item: { count: 1, id: "ae2:logic_processor_press" }
+					type: "item"
+				}
+				{
+					id: "41BD1DF1C9A02255"
+					item: { count: 1, id: "ae2:calculation_processor_press" }
+					type: "item"
+				}
+				{
+					id: "7B093F1115B72F4E"
+					item: { count: 1, id: "ae2:engineering_processor_press" }
+					type: "item"
+				}
+				{
+					id: "005CB5E4D4708444"
+					item: { count: 1, id: "ae2:silicon_press" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"40A6F9E0AC918F26"
+				"606C9C70205CA46F"
+			]
+			id: "04217DE7084B8781"
+			tasks: [
+				{
+					id: "470F066F4D71BF04"
+					item: { count: 1, id: "powah:energizing_orb" }
+					type: "item"
+				}
+				{
+					id: "27273E892D18A2C0"
+					item: { count: 1, id: "powah:energizing_rod_starter" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["04217DE7084B8781"]
+			id: "25EA2B5DBB954598"
+			tasks: [{
+				id: "3631CEC8E65C2B5C"
+				item: { count: 1, id: "powah:steel_energized" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["25EA2B5DBB954598"]
+			id: "58D0175C5A37BBDB"
+			tasks: [{
+				id: "7E38A59750F621AD"
+				item: { count: 1, id: "integrateddynamics:mechanical_squeezer" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["04217DE7084B8781"]
+			id: "0508424D11C98977"
+			tasks: [{
+				id: "0070ACCFCD683B8C"
+				item: { count: 1, id: "mekanism:ingot_steel" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0508424D11C98977"
+				"25EA2B5DBB954598"
+			]
+			id: "643AC4474A5523C6"
+			tasks: [{
+				id: "03BF872F171A36F3"
+				item: { count: 1, id: "mekanism:steel_casing" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["643AC4474A5523C6"]
+			id: "6F90D3E0C033B947"
+			tasks: [{
+				id: "33670F8670DD9E1D"
+				item: { count: 1, id: "mekanism:metallurgic_infuser" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["643AC4474A5523C6"]
+			id: "5ACBFBDC8A795242"
+			optional: true
+			tasks: [{
+				id: "6F045B33CC9EE413"
+				item: { count: 1, id: "mekanism:energized_smelter" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+	]
+}
