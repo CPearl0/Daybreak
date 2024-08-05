@@ -2,7 +2,9 @@ ServerEvents.recipes(event => {
     remove_recipes_output(event, [
         "pneumaticcraft:air_compressor",
         "pneumaticcraft:advanced_air_compressor",
+        "pneumaticcraft:amadron_tablet",
     ]);
+    remove_recipes_type(event, ["pneumaticcraft:amadron"]);
 
     event.shaped("pneumaticcraft:air_compressor", [
         "BBB",

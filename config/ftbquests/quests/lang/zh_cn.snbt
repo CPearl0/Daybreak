@@ -1,7 +1,14 @@
 {
 	chapter.230B15EFFCED1069.title: "一 艰难起步"
 	chapter.39C825E1FFAC6D34.title: "欢迎来到&b破晓&r"
+	chapter.51B4B39BAAE20129.title: "三 智能化"
 	chapter.7D72034214A17EC8.title: "二 气动工艺"
+	quest.10B70E1C7AB7EA53.quest_desc: ["这样似乎可以产生源源不断的压缩空气，这种形式也更容易利用。"]
+	quest.10B70E1C7AB7EA53.title: "可控的压缩空气"
+	quest.19D2C1E9EC82FC88.quest_desc: [
+		"风弹可以储存压缩空气。右键风弹可以发射并释放压缩空气，弹飞目标。"
+		"等等，压缩空气...这是否会有更多用处？"
+	]
 	quest.2C369F26E87C5495.quest_desc: ["虽然没了太阳，好在资源还在。"]
 	quest.2C369F26E87C5495.title: "基础资源"
 	quest.2CFF6FD8D52DFADE.quest_desc: [
@@ -10,6 +17,7 @@
 	]
 	quest.2CFF6FD8D52DFADE.title: "&b破晓&r"
 	quest.40A6F9E0AC918F26.quest_desc: ["我们现在可能还去不了下界，拿不到下界石英。不过，陨石里也许有另一种石英同样性能优异..."]
+	quest.4AF408E73C956D2E.title: "宝藏科技"
 	quest.4BE54C28218BED92.quest_desc: ["不知道外星有没有太阳。"]
 	quest.4BE54C28218BED92.title: "外星科技"
 	quest.519E9D76F874F54D.quest_desc: [
@@ -23,7 +31,7 @@
 		"除了电能，还有我们的双手不是。"
 		"&m低版本AE玩家不用惊讶，高版本AE是这样的。&r顺带一提，按G可以查看AE模组中物品的使用方法。"
 	]
-	quest.6E28D30C613347DB.quest_desc: ["利用压力，改变世界。"]
+	quest.6E28D30C613347DB.quest_desc: ["利用压力，改变世界。首先我们需要一种耐压材料。"]
 	quest.6E28D30C613347DB.title: "压缩！！！"
 	task.365D0E1E386B7173.title: "&b破晓&r"
 }

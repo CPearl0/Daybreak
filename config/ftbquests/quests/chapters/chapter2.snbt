@@ -61,5 +61,68 @@
 			x: 2.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["1E6C304EDE0F6318"]
+			id: "2F2D84643C1A1CED"
+			tasks: [
+				{
+					id: "672A8AEBFDC7CF58"
+					item: { count: 1, id: "minecraft:trial_key" }
+					type: "item"
+				}
+				{
+					id: "00506DBE9FD57897"
+					item: { count: 1, id: "minecraft:ominous_trial_key" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2F2D84643C1A1CED"]
+			id: "4AF408E73C956D2E"
+			tasks: [
+				{
+					id: "34025A75DC06A29B"
+					item: { count: 1, id: "pneumaticcraft:pcb_blueprint" }
+					type: "item"
+				}
+				{
+					id: "4D8CFD52365CAE7F"
+					item: { count: 1, id: "pneumaticcraft:assembly_program_drill" }
+					type: "item"
+				}
+				{
+					id: "127DC668696F07AA"
+					item: { count: 1, id: "pneumaticcraft:assembly_program_laser" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["10B70E1C7AB7EA53"]
+			id: "735741AD6A9E319F"
+			tasks: [{
+				advancement: "pneumaticcraft:pressure_chamber"
+				criterion: ""
+				id: "3770DD7FF960A102"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "487A3199753ECADF"
+			tasks: [{
+				id: "2F04564EFAF7EB3A"
+				item: { count: 1, id: "pneumaticcraft:printed_circuit_board" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
 	]
 }

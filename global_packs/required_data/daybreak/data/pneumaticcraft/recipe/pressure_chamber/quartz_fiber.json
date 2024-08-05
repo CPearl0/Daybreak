@@ -1,0 +1,20 @@
+{
+    "type": "pneumaticcraft:pressure_chamber",
+    "inputs": [
+        {
+            "count": 2,
+            "tag": "c:glass_blocks"
+        },
+        {
+            "count": 1,
+            "tag": "ae2:all_quartz_dust"
+        }
+    ],
+    "pressure": 3.0,
+    "results": [
+        {
+            "count": 1,
+            "id": "ae2:quartz_fiber"
+        }
+    ]
+}
