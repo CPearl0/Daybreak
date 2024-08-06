@@ -190,7 +190,10 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["25EA2B5DBB954598"]
+			dependencies: [
+				"25EA2B5DBB954598"
+				"4E56FFCF24DFDA4A"
+			]
 			id: "58D0175C5A37BBDB"
 			tasks: [{
 				id: "7E38A59750F621AD"
@@ -247,6 +250,18 @@
 			}]
 			x: 12.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["519E9D76F874F54D"]
+			hide_dependency_lines: true
+			id: "4E56FFCF24DFDA4A"
+			tasks: [{
+				id: "78609C4CBEE6E42F"
+				item: { count: 1, id: "integrateddynamics:squeezer" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -2.0d
 		}
 	]
 }

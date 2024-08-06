@@ -1,0 +1,19 @@
+{
+  "type": "powah:energizing",
+  "energy": 32000,
+  "ingredients": [
+    {
+      "tag": "ae2:all_nether_quartz"
+    },
+    {
+      "tag": "c:dusts/fluix"
+    },
+    {
+      "item": "ae2:logic_processor"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "ae2:annihilation_core"
+  }
+}

@@ -44,5 +44,76 @@
 			x: 0.0d
 			y: 2.0d
 		}
+		{
+			dependencies: ["43DAE74E09413719"]
+			id: "400AE386D7F05561"
+			tasks: [{
+				id: "4E45588AEA6767FE"
+				item: { count: 1, id: "mekanism:enrichment_chamber" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "74384133B9CB2CE9"
+			tasks: [{
+				id: "36A73D62E8E6179C"
+				item: { count: 1, id: "mekanism:osmium_compressor" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4DE9E465CE342F4F"]
+			id: "78BFA68590A7848A"
+			tasks: [{
+				id: "43F4D667306782F6"
+				item: { count: 1, id: "ae2:controller" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4DE9E465CE342F4F"]
+			id: "480687C65BBCD0E9"
+			tasks: [{
+				id: "7A68450C2F0EEA83"
+				item: { count: 1, id: "ae2:drive" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4DE9E465CE342F4F"]
+			id: "280E6B0717B03BCF"
+			tasks: [
+				{
+					id: "04B410D414E33698"
+					item: { count: 1, id: "minecraft:crafter" }
+					type: "item"
+				}
+				{
+					id: "72EA1C263F6559B5"
+					item: { count: 1, id: "ae2:molecular_assembler" }
+					type: "item"
+				}
+				{
+					id: "56EA55AEE01B8FFA"
+					item: { count: 1, id: "ae2:crafting_unit" }
+					type: "item"
+				}
+				{
+					id: "257D5CD5CBE2E076"
+					item: { count: 1, id: "ae2:pattern_provider" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.0d
+		}
 	]
 }

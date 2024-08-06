@@ -13,13 +13,15 @@
 	quest.2C369F26E87C5495.title: "基础资源"
 	quest.2CFF6FD8D52DFADE.quest_desc: [
 		"后裔曾经说过：“周日被我射熄火了，所以今天是周一。”"
-		"当然，你没有见过后裔；但是不知为何，你现在也没见到太阳了。"
+		"当然，你没有见过后裔；但是不知为何，你现在也没见到&c太阳&r了。"
 	]
 	quest.2CFF6FD8D52DFADE.title: "&b破晓&r"
 	quest.40A6F9E0AC918F26.quest_desc: ["我们现在可能还去不了下界，拿不到下界石英。不过，陨石里也许有另一种石英同样性能优异..."]
 	quest.4AF408E73C956D2E.title: "宝藏科技"
 	quest.4BE54C28218BED92.quest_desc: ["不知道外星有没有太阳。"]
 	quest.4BE54C28218BED92.title: "外星科技"
+	quest.4E56FFCF24DFDA4A.quest_desc: ["使你的矿石产出更多矿物。"]
+	quest.4E56FFCF24DFDA4A.title: "增产"
 	quest.519E9D76F874F54D.quest_desc: [
 		"希望你能安全找到第一棵&a树&r"
 		"&m什么，你问我没有太阳怎么会有树？曾经是有太阳的&r"

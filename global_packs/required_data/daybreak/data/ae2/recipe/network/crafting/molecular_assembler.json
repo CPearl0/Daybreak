@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "a": {
+            "item": "powah:steel_energized"
+        },
+        "b": {
+            "item": "ae2:quartz_glass"
+        },
+        "c": {
+            "item": "ae2:annihilation_core"
+        },
+        "d": {
+            "item": "minecraft:crafter"
+        },
+        "e": {
+            "item": "ae2:formation_core"
+        }
+    },
+    "pattern": [
+        "aba",
+        "cde",
+        "aba"
+    ],
+    "result": {
+        "count": 1,
+        "id": "ae2:molecular_assembler"
+    }
+}

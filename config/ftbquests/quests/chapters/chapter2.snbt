@@ -33,7 +33,7 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
+			x: 2.0d
 			y: -2.0d
 		}
 		{
@@ -44,7 +44,7 @@
 				structure: "minecraft:trial_chambers"
 				type: "structure"
 			}]
-			x: -2.0d
+			x: 0.0d
 			y: -2.0d
 		}
 		{
@@ -76,7 +76,7 @@
 					type: "item"
 				}
 			]
-			x: 2.0d
+			x: 4.0d
 			y: -2.0d
 		}
 		{
@@ -99,7 +99,7 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
+			x: 6.0d
 			y: -2.0d
 		}
 		{
