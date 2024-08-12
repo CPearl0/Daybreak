@@ -1,0 +1,19 @@
+{
+    "type": "pneumaticcraft:pressure_chamber",
+    "inputs": [
+        {
+            "count": 1,
+            "tag": "c:ender_pearls"
+        },
+        {
+            "count": 2,
+            "item": "minecraft:blaze_powder"
+        }
+    ],
+    "pressure": 4.0,
+    "results": [
+        {
+            "id": "minecraft:ender_eye"
+        }
+    ]
+}

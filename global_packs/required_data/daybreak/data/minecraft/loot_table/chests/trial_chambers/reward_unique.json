@@ -30,7 +30,7 @@
                 {
                     "type": "minecraft:item",
                     "name": "pneumaticcraft:pcb_blueprint",
-                    "weight": 6
+                    "weight": 8
                 }
             ],
             "rolls": 1.0

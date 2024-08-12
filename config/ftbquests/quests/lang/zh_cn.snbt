@@ -9,6 +9,12 @@
 		"风弹可以储存压缩空气。右键风弹可以发射并释放压缩空气，弹飞目标。"
 		"等等，压缩空气...这是否会有更多用处？"
 	]
+	quest.1D6A67AFA50E5059.quest_desc: [
+		"这是你的最终目标。飞行到500米以上高度，然后右键放飞火箭。"
+		"因为任务还没有完善，我先把他挂到这，怎么做自己看jei。"
+	]
+	quest.1E6C304EDE0F6318.quest_desc: ["接受试炼吧！"]
+	quest.1E6C304EDE0F6318.title: "试炼大厅"
 	quest.2C369F26E87C5495.quest_desc: ["虽然没了太阳，好在资源还在。"]
 	quest.2C369F26E87C5495.title: "基础资源"
 	quest.2CFF6FD8D52DFADE.quest_desc: [
@@ -35,5 +41,6 @@
 	]
 	quest.6E28D30C613347DB.quest_desc: ["利用压力，改变世界。首先我们需要一种耐压材料。"]
 	quest.6E28D30C613347DB.title: "压缩！！！"
+	quest.735741AD6A9E319F.title: "压力室"
 	task.365D0E1E386B7173.title: "&b破晓&r"
 }

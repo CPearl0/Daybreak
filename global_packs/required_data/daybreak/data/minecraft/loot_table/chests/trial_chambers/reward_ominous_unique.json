@@ -30,12 +30,12 @@
                 {
                     "type": "minecraft:item",
                     "name": "pneumaticcraft:assembly_program_drill",
-                    "weight": 5
+                    "weight": 6
                 },
                 {
                     "type": "minecraft:item",
                     "name": "pneumaticcraft:assembly_program_laser",
-                    "weight": 5
+                    "weight": 6
                 }
             ],
             "rolls": 1.0

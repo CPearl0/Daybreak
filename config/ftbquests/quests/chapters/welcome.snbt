@@ -3,16 +3,32 @@
 	default_quest_shape: ""
 	filename: "welcome"
 	group: ""
+	icon: {
+		id: "daybreakcore:sun_rocket"
+	}
 	id: "39C825E1FFAC6D34"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		id: "2CFF6FD8D52DFADE"
-		tasks: [{
-			id: "365D0E1E386B7173"
-			type: "checkmark"
-		}]
-		x: 0.0d
-		y: 0.0d
-	}]
+	quests: [
+		{
+			id: "2CFF6FD8D52DFADE"
+			tasks: [{
+				id: "365D0E1E386B7173"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2CFF6FD8D52DFADE"]
+			id: "1D6A67AFA50E5059"
+			tasks: [{
+				id: "2D5D3D022C6E7B86"
+				item: { count: 1, id: "daybreakcore:sun_rocket" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
 }

@@ -1,0 +1,20 @@
+{
+    "type": "pneumaticcraft:pressure_chamber",
+    "inputs": [
+        {
+            "count": 12,
+            "tag": "c:glass_blocks"
+        },
+        {
+            "count": 16,
+            "tag": "c:dusts/certus_quartz"
+        }
+    ],
+    "pressure": 2.5,
+    "results": [
+        {
+            "count": 12,
+            "id": "ae2:quartz_glass"
+        }
+    ]
+}
