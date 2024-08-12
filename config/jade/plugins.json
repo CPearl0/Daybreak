@@ -82,6 +82,9 @@
   "waystones": {
     "waystone": true
   },
+  "corpse": {
+    "corpse": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,

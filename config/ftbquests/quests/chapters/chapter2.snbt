@@ -37,7 +37,10 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["519E9D76F874F54D"]
+			dependencies: [
+				"519E9D76F874F54D"
+				"0DCA769E47C1CF17"
+			]
 			id: "1E6C304EDE0F6318"
 			tasks: [{
 				id: "18CC73AE8A8589A9"
@@ -123,6 +126,17 @@
 			}]
 			x: 6.0d
 			y: 0.0d
+		}
+		{
+			dependencies: ["04217DE7084B8781"]
+			id: "0DCA769E47C1CF17"
+			tasks: [{
+				id: "017686C47923235B"
+				item: { count: 1, id: "daybreakcore:trial_eye" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
 		}
 	]
 }

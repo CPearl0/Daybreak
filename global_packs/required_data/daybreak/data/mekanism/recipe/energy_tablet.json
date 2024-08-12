@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "C": {
+            "item": "powah:capacitor_hardened"
+        },
+        "R": {
+            "tag": "c:dusts/redstone"
+        },
+        "S": {
+            "item": "powah:steel_energized"
+        }
+    },
+    "pattern": [
+        "SRS",
+        "CRC",
+        "SRS"
+    ],
+    "result": {
+        "id": "mekanism:energy_tablet"
+    }
+}

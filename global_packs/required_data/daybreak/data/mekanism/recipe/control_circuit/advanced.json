@@ -1,0 +1,18 @@
+{
+    "type": "powah:energizing",
+    "energy": 30000,
+    "ingredients": [
+        {
+            "item": "mekanism:basic_control_circuit"
+        },
+        {
+            "tag": "c:alloys/advanced"
+        },
+        {
+            "tag": "c:alloys/advanced"
+        }
+    ],
+    "result": {
+        "id": "mekanism:advanced_control_circuit"
+    }
+}

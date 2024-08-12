@@ -1,0 +1,15 @@
+{
+    "type": "powah:energizing",
+    "energy": 100000,
+    "ingredients": [
+        {
+            "tag": "c:ender_pearls"
+        },
+        {
+            "tag": "c:nuggets/copper"
+        }
+    ],
+    "result": {
+        "id": "daybreakcore:trial_eye"
+    }
+}

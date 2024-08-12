@@ -9,7 +9,6 @@
         "item": "pneumaticcraft:printed_circuit_board"
     },
     "output": {
-        "count": 1,
         "id": "mekanism:basic_control_circuit"
     }
 }

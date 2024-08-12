@@ -1,6 +1,6 @@
 {
     "type": "powah:energizing",
-    "energy": 12000,
+    "energy": 15000,
     "ingredients": [
         {
             "tag": "c:ingots/iron"

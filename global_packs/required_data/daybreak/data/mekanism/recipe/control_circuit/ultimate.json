@@ -1,0 +1,27 @@
+{
+    "type": "powah:energizing",
+    "energy": 200000,
+    "ingredients": [
+        {
+            "item": "mekanism:elite_control_circuit"
+        },
+        {
+            "item": "mekanism:elite_control_circuit"
+        },
+        {
+            "item": "mekanism:basic_control_circuit"
+        },
+        {
+            "tag": "c:alloys/ultimate"
+        },
+        {
+            "tag": "c:alloys/ultimate"
+        },
+        {
+            "tag": "c:dusts/redstone"
+        }
+    ],
+    "result": {
+        "id": "mekanism:ultimate_control_circuit"
+    }
+}
